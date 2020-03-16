@@ -1,9 +1,9 @@
 ---
 title: "Financial Loss Aversion Illusion"
 collection: publications
-permalink: /publication/2019-02-01-financial-loss-aversion
+permalink: /publication/2020-03-15-financial-loss-aversion
 excerpt: ''
-date: 2019-02-01
+date: 2020-03-15
 venue: 'Review of Finance'
 paperurl: ''
 citation: 'Merkle, Christoph. (2020). &quot;Financial Loss Aversion Illusion.&quot; <i>Review of Finance</i>. 24(2), 381-413.'
