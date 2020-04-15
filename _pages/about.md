@@ -19,6 +19,6 @@ My current teaching includes courses on Corporate Finance, Corporate Valuation, 
 News
 =====
 
-My article <b>Financial Loss Aversion Illusion</b> has now been published in the March issue of the Review of Finance. The article is open access. (15.03.2020) A digest can be found <a href="http://revfin.org/financial-loss-aversion-illusion">here</a>. (07.04.2020) <br>
+My article <b>Financial Loss Aversion Illusion</b> has now been published in the March issue of the Review of Finance. The article is open access. A digest can be found <a href="http://revfin.org/financial-loss-aversion-illusion">here</a>. (07.04.2020) <br>
 I was just appointed a research fellow at the <b>Danish Finance Institute</b>, an initiative that supports the building of a world-class Danish research environment in finance. (21.01.2020)<br>
  
