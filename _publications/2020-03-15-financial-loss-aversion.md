@@ -14,6 +14,8 @@ We test the proposition that investors’ ability to cope with financial losses 
 
 [Free working paper version](https://dx.doi.org/10.2139/ssrn.2445941)
 
+A digest can be found <a href="http://revfin.org/financial-loss-aversion-illusion">here.
+
 JEL codes: D03, D14, D81, G02, G11.
 
 Keywords: Loss Aversion, Individual Investors, Expectations, Affective Forecasting, Projection Bias.
