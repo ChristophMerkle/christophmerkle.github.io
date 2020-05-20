@@ -1,5 +1,5 @@
 ---
-title: "Inconsistent Retirement Timing"
+title: "Value and Momentum from Investors' Perspective: Evidence from Professionals' Risk-Ratings"
 collection: wp
 permalink: /wp/2017-12-21-inconsistent-retirement
 excerpt: ''
