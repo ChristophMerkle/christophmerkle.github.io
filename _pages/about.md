@@ -19,6 +19,6 @@ My current teaching includes courses on Corporate Finance, Corporate Valuation, 
 News
 =====
 Our paper <b>Closing a Mental Account: The Realization Effect for Gains and Losses</b> has been accepted by <i>Experimental Economics</i>. (13.05.2020)<br>
-New working paper <a href="http://revfin.org/financial-loss-aversion-illusion">online</a>. We study how professional investors view the value and momentum. (01.05.2020) <br>
+New working paper <a href="https://christophmerkle.github.io/wp/2020-01-20-value-momentum">online</a>. We study how professional investors view the value and momentum. (01.05.2020) <br>
 
  
