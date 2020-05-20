@@ -19,6 +19,6 @@ My current teaching includes courses on Corporate Finance, Corporate Valuation, 
 News
 =====
 Our paper <b>Closing a Mental Account: The Realization Effect forGains and Losses</b> has been accepted by <i>Experimental Economics</i>. (13.05.2020)<br>
-My article <b>Financial Loss Aversion Illusion</b> has now been published in the March issue of the Review of Finance. The article is open access. A digest can be found <a href="http://revfin.org/financial-loss-aversion-illusion">here</a>. (07.04.2020) <br>
+My article <b>Financial Loss Aversion Illusion</b> has now been published in the March issue of the <i>Review of Finance</i>. The article is open access. A digest can be found <a href="http://revfin.org/financial-loss-aversion-illusion">here</a>. (07.04.2020) <br>
 
  
