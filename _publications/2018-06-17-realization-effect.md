@@ -1,7 +1,7 @@
 ---
 title: "Closing a Mental Account: The Realization Effect for Gains and Losses"
-collection: wp
-permalink: /wp/2018-06-17-realization-effect
+collection: publications
+permalink: /publication/2018-06-17-realization-effect
 excerpt: ''
 date: 2018-06-17
 venue: 'Working Paper'
