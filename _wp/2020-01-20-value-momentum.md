@@ -1,7 +1,7 @@
 ---
 title: "Value and Momentum from Investors' Perspective: Evidence from Professionals' Risk-Ratings"
 collection: wp
-permalink: /wp/2017-12-21-inconsistent-retirement
+permalink: /wp/2020-01-20-value-momentum
 excerpt: ''
 date: 2020-01-20
 venue: 'Working Paper'
