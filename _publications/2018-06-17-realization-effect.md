@@ -1,9 +1,9 @@
 ---
 title: "Closing a Mental Account: The Realization Effect for Gains and Losses"
 collection: publications
-permalink: /publication/2018-06-17-realization-effect
+permalink: /publication/2020-05-13-realization-effect
 excerpt: ''
-date: 2018-06-17
+date: 2020-05-13
 venue: 'Working Paper'
 paperurl: ''
 citation: 'Merkle, Christoph, Jan Müller-Dethard, and Martin Weber. (2019). &quot;Closing a Mental Account: The Realization Effect for Gains and Losses.&quot; <i>Working Paper</i>.'
