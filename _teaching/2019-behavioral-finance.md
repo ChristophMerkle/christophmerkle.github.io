@@ -8,7 +8,7 @@ date: 2019-06-25
 location: "Hamburg, Germany"
 ---
 
-<i>Next offered: 2021 (tentative)</i>
+Next offered: 2021 (tentative)
 
 The purpose of this course is to provide advanced insights into several areas of behavioral finance including individual investor behavior, household finance, limits to arbitrage, and (empirical) asset pricing. We will discuss cutting edge papers in these areas with a focus on methodological issues, such as conducting experiments, running surveys, and analyzing big data sets. The course will also include a practical part in which students replicate selected empirical findings related to cross-sectional return patterns.
 
