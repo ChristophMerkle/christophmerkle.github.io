@@ -13,11 +13,12 @@ I am an Associate Professor of Finance at Aarhus University, School of Business 
 
 My research interests include Behavioral Finance, Household Finance, Experimental Economics, Decision Research, and Digital Finance. Among other topics, I analyze how individual investors convert their beliefs and preferences into actions in financial markets. I have extensively studied phenomena such as investor overconfidence and loss aversion. I further analyze how financial professionals (in particular analysts) process information and form expectations. In newer work, I explore imminent societal challenges such as digitalization and demographic change. For example, I examine financial technology companies (FinTechs) and how their customers accept them.
 
-My current teaching includes courses on Corporate Finance, Corporate Valuation, and Behavioral Finance. I have taught various courses at ALBA Graduate Business School Athens, KLU, University of Mannheim, University of Münster, University of Cologne, and for the VHB. 
+My current teaching includes courses on Corporate Valuation and Behavioral Finance. I have taught various courses at ALBA Graduate Business School Athens, KLU, University of Mannheim, University of Münster, University of Cologne, and for the VHB. 
 <br>
 
 News
 =====
-Our paper <b>Closing a Mental Account: The Realization Effect for Gains and Losses</b> has been accepted by <i>Experimental Economics</i>. The <a href="https://link.springer.com/article/10.1007/s10683-020-09663-x">paper</a> is open access (03.07.2020)<br>
-In <a href="https://www.capco.com/Capco-Institute/Journal-51-Wealth-and-Asset-Management/Robo-Advice-And-The-Future-Of-Delegated-Investment">this article</a> for the Journal of Financial Transformation, I argue that human financial advisors and asset managers will survive the competition of robo-advisors if they interpret their role as "money doctors" rather than "stock pickers" (18.05.2020)
- 
+<ul>
+<li>Our paper <b>Closing a Mental Account: The Realization Effect for Gains and Losses</b> has been accepted by <i>Experimental Economics</i>. The <a href="https://link.springer.com/article/10.1007/s10683-020-09663-x">paper</a> is open access (03.07.2020)</li><br>
+<li>In <a href="https://www.capco.com/Capco-Institute/Journal-51-Wealth-and-Asset-Management/Robo-Advice-And-The-Future-Of-Delegated-Investment">this article</a> for the Journal of Financial Transformation, I argue that human financial advisors and asset managers will survive the competition of robo-advisors if they interpret their role as "money doctors" rather than "stock pickers" (18.05.2020)</li>
+</ul> 
