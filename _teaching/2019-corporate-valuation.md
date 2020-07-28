@@ -1,13 +1,15 @@
 ---
 title: "Corporate Valuation"
 collection: teaching
-type: "Master course"
+type: "Master course (MSc FIB)"
 permalink: /teaching/2019-corporate-valuation
-venue: "Kuehne Logistics University"
-date: 2019-03-18
-location: "Hamburg, Germany"
+venue: "Aarhus University BSS"
+date: 2020-03-26
+location: "Aarhus, Denmark"
 ---
 
-Corporate valuation primarily deals with company valuation from an external stakeholder perspective. The course introduces the major approaches to valuation and how to apply them. We further study the cost of capital, capital structure, and financial statements of companies. In several case studies, students apply their knowledge in realistic contexts.
+Next offered: Spring term 2021
+
+Corporate valuation primarily deals with company valuation from an external stakeholder perspective. The course introduces the major approaches to valuation and how to apply them. We further study the cost of capital, capital structure, and financial statements of companies. In a valuation report, students apply their knowledge to a listed company of their choice.
 
 
