@@ -19,6 +19,6 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 News
 =====
 <ul>
-<li>Our paper <b>Closing a Mental Account: The Realization Effect for Gains and Losses</b> has been accepted by <i>Experimental Economics</i>. The <a href="https://link.springer.com/article/10.1007/s10683-020-09663-x">paper</a> is open access (03.07.2020)</li><br>
+<li>Our paper <b>Closing a Mental Account: The Realization Effect for Gains and Losses</b> has been accepted by <i>Experimental Economics</i>. The <a href="https://link.springer.com/article/10.1007/s10683-020-09663-x">paper</a> is open access (03.07.2020)</li>
 <li>In <a href="https://www.capco.com/Capco-Institute/Journal-51-Wealth-and-Asset-Management/Robo-Advice-And-The-Future-Of-Delegated-Investment">this article</a> for the Journal of Financial Transformation, I argue that human financial advisors and asset managers will survive the competition of robo-advisors if they interpret their role as "money doctors" rather than "stock pickers" (18.05.2020)</li>
 </ul> 
