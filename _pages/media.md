@@ -22,9 +22,10 @@ My work has been covered by several national and international news outlets:
 * The **Börsenzeitung** features a guest article by my co-author Alexander Kempf on our work on emotions: [Die rosarote Brille der Anleger](http://www.boersen-zeitung.de/index.php?li=1&artid=2010056038&artsubm=bz&subm=ausgaben&ersch_datum=2010-03-23)
 <a href="https://christophmerkle.github.io/files/Börsenzeitung - Die rosarote Brille der Anleger (23.03.2010).pdf">[pdf]</a>
 * The **Investors Chronicle** runs a comment series covering several of my articles: 
-  * [Not seeing risk](https://www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk/)
-  * [What we have to fear](https://www.investorschronicle.co.uk/comment/2018/12/13/what-we-have-to-fear/)
-  * [How (not) to think about risk](https://www.investorschronicle.co.uk/chris-dillow/2018/09/06/how-not-to-think-about-risk/)
+  * [Revisiting the equity premium puzzle](https://www.investorschronicle.co.uk/comment/2019/12/04/revisiting-the-equity-premium-puzzle/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Revisiting the Equity Premium Puzzle (04.12.2019).pdf">[pdf]</a>
+  * [Not seeing risk](https://www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Not seeing risk (25.07.2019).pdf">[pdf]</a>
+  * [What we have to fear](https://www.investorschronicle.co.uk/comment/2018/12/13/what-we-have-to-fear/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - What we have to fear (13.12.2018).pdf">[pdf]</a>
+  * [How (not) to think about risk](https://www.investorschronicle.co.uk/chris-dillow/2018/09/06/how-not-to-think-about-risk/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - How (not) to think about risk (06.09.2018).pdf">[pdf]</a>
   * [The worst losses](https://www.investorschronicle.co.uk/chris-dillow/2017/09/21/the-worst-losses/?plckFindCommentKey=CommentKey:db6ec250-b1b3-4d9e-9e1b-6d401d87ac91)
   * [Underestimating risk](https://www.investorschronicle.co.uk/2016/10/13/comment/chris-dillow/underestimating-risk-KBk4ySau67Ff6iEJIPSG7O/article.html)
   * [The knowledge problem](https://www.investorschronicle.co.uk/2015/07/09/comment/chris-dillow/the-knowledge-problem-GCaA6AzVD09HKNDI4rEctM/article.html)
