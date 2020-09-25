@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+  <br>
+  <p style="text-decoration:underline;"><a href="https://christophmerkle.github.io/files/CV.pdf">Download full CV</a></p>
 
 Work experience
 ======
@@ -66,6 +68,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-  <br>
-  <p style="text-decoration:underline;"><a href="https://christophmerkle.github.io/files/CV.pdf">Download full CV</a></p>
