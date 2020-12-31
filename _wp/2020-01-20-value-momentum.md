@@ -4,7 +4,7 @@ collection: wp
 permalink: /wp/2020-01-20-value-momentum
 excerpt: ''
 date: 2020-01-20
-venue: 'Working Paper'
+venue: 'Working Paper (<i>R&R Journal of Empirical Finance</i>)' 
 paperurl: ''
 citation: 'Merkle, Christoph, and Christoph Sextroh. (2020). &quot;Value and Momentum from Investors Perspective: Evidence from Professionals Risk Ratings.&quot; <i>Working Paper</i>.'
 ---
