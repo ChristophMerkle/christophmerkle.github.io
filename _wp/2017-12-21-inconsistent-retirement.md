@@ -4,7 +4,7 @@ collection: wp
 permalink: /wp/2017-12-21-inconsistent-retirement
 excerpt: ''
 date: 2017-12-21
-venue: 'Working Paper (<i>R&R Journal of Empirical Finance</i>)'
+venue: 'Working Paper (<i>R&R Journal of Human Resources</i>)'
 paperurl: ''
 citation: 'Merkle, Christoph, Philipp Schreiber and Martin Weber. (2017). &quot;Inconsistent Retirement Timing.&quot; <i>Working Paper</i>.'
 ---
