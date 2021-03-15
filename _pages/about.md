@@ -18,7 +18,7 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li>Our paper <b>Value and Momentum from Investors' Perspective: Evidence from Professionals' Risk-Ratings</b> has now been accepted by the <i>Journal of Empirical Finance</i>, available <a href="http://dx.doi.org/10.2139/ssrn.3590160 ">here</a> (15.03.2021)</li>
+<ul> <li>Our paper <b>Value and Momentum from Investors' Perspective: Evidence from Professionals' Risk-Ratings</b> has just been accepted by the <i>Journal of Empirical Finance</i>, available <a href="http://dx.doi.org/10.2139/ssrn.3590160 ">here</a> (15.03.2021)</li>
 <li>Our paper <b>Closing a Mental Account: The Realization Effect for Gains and Losses</b> has now been published in <i>Experimental Economics</i>, Vol. 24(1), 2021. The <a href="https://link.springer.com/article/10.1007/s10683-020-09663-x">article</a> is open access (13.03.2021)</li>
 <li>New working paper out: In joint work with Michael Ungeheuer, we study investors' <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a> (27.02.2021)</li>
 <!-- <li>I was ranked #63 in the Top100 German-speaking business researchers under 40 by <a href="https://www.wiwo.de/my/erfolg/hochschule/exklusives-ranking-das-ist-deutschlands-bester-betriebswirt/26702504.html">WiWo/Handelsblatt</a>. The <a href="https://www.forschungsmonitoring.org/ranking/bwl/young">ranking</a> is called the "young & wild" (30.12.2020)</li>   
