@@ -1,7 +1,7 @@
 ---
 title: "Value and Momentum from Investors' Perspective: Evidence from Professionals' Risk-Ratings"
-collection: wp
-permalink: /wp/2020-01-20-value-momentum
+collection: publications
+permalink: /publications/2020-01-20-value-momentum
 excerpt: ''
 date: 2020-01-20
 venue: 'Working Paper (<i>R&R Journal of Empirical Finance</i>)' 
