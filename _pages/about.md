@@ -19,7 +19,7 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 News
 =====
 <ul>
-<li>New working paper out: In joint work with Michael Ungeheuer, we study investors' <a href="http://revfin.org/2019-20-best-paper-and-best-referee-awards/">Beliefs about Beta/a> (27.02.2021)</li>
+<li>New working paper out: In joint work with Michael Ungeheuer, we study investors' <a href="http://revfin.org/2019-20-best-paper-and-best-referee-awards/">Beliefs about Beta</a> (27.02.2021)</li>
 <!-- <li>I was ranked #63 in the Top100 German-speaking business researchers under 40 by <a href="https://www.wiwo.de/my/erfolg/hochschule/exklusives-ranking-das-ist-deutschlands-bester-betriebswirt/26702504.html">WiWo/Handelsblatt</a>. The <a href="https://www.forschungsmonitoring.org/ranking/bwl/young">ranking</a> is called the "young & wild" (30.12.2020)</li>   
 <li>Never won a paper prize, but <a href="http://revfin.org/2019-20-best-paper-and-best-referee-awards/">this time</a> I was a finalist for the Spängler IQAM award for the best investments paper published in the Review of Finance. Close but no cigar! (28.08.2020)</li>
 <li>Our paper <b>Closing a Mental Account: The Realization Effect for Gains and Losses</b> has been accepted by <i>Experimental Economics</i>. The <a href="https://link.springer.com/article/10.1007/s10683-020-09663-x">paper</a> is open access (03.07.2020)</li>
