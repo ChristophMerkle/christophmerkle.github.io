@@ -18,7 +18,7 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li> The Investor Chronicle <a href="https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/">reports</a> on our new working paper (joint work with Michael Ungeheuer). We study investors' <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a> (15.07.2021)</li>
+<ul> <li> The Investors' Chronicle <a href="https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/">reports</a> on our new working paper (joint work with Michael Ungeheuer). We study investors' <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a> (15.07.2021)</li>
 <li> Our paper <b>Value and Momentum from Investors' Perspective: Evidence from Professionals' Risk-Ratings</b> has now been published in the <i>Journal of Empirical Finance</i>. The <a href="https://doi.org/10.1016/j.jempfin.2021.03.004">article</a> is open access (08.04.2021)</li>
 <!-- <li>Our paper <b>Closing a Mental Account: The Realization Effect for Gains and Losses</b> has now been published in <i>Experimental Economics</i>. The <a href="https://link.springer.com/article/10.1007/s10683-020-09663-x">article</a> is open access (13.03.2021)</li>
 <li>New working paper out: In joint work with Michael Ungeheuer, we study investors' <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a> (27.02.2021)</li>
