@@ -22,7 +22,7 @@ My work has been covered by several national and international news outlets:
 * The **Börsenzeitung** features a guest article by my co-author Alexander Kempf on our work on emotions: [Die rosarote Brille der Anleger](http://www.boersen-zeitung.de/index.php?li=1&artid=2010056038&artsubm=bz&subm=ausgaben&ersch_datum=2010-03-23)
 <a href="https://christophmerkle.github.io/files/Börsenzeitung - Die rosarote Brille der Anleger (23.03.2010).pdf">[pdf]</a>
 * The **Investors' Chronicle** runs a comment series covering several of my articles: 
-  * [Ideas Farm: Winning the losing game](https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Winning the losing game (15.07.2021).pdf">[pdf]</a>
+  * [Ideas Farm: Winning the losing game](https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Ideas farm (15.07.2021).pdf">[pdf]</a>
   * [Revisiting the equity premium puzzle](https://www.investorschronicle.co.uk/comment/2019/12/04/revisiting-the-equity-premium-puzzle/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Revisiting the Equity Premium Puzzle (04.12.2019).pdf">[pdf]</a>
   * [Not seeing risk](https://www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Not seeing risk (25.07.2019).pdf">[pdf]</a>
   * [What we have to fear](https://www.investorschronicle.co.uk/comment/2018/12/13/what-we-have-to-fear/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - What we have to fear (13.12.2018).pdf">[pdf]</a>
