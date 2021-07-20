@@ -5,10 +5,10 @@ type: "PhD course"
 permalink: /teaching/2019-behavioral-finance
 venue: "VHB ProDok"
 date: 2019-06-25
-location: "Hamburg, Germany"
+location: "Frankfurt, Germany"
 ---
 
-Next offered: 2021 (tentative)
+Next offered: 2021 
 
 The purpose of this course is to provide advanced insights into several areas of behavioral finance including individual investor behavior, household finance, limits to arbitrage, and (empirical) asset pricing. We will discuss cutting edge papers in these areas with a focus on methodological issues, such as conducting experiments, running surveys, and analyzing big data sets. The course will also include a practical part in which students replicate selected empirical findings related to cross-sectional return patterns.
 
@@ -16,4 +16,4 @@ The course intends to enable students to plan and carry out empirical and experi
 
 Joint with Prof. Dr. Alexander Hillert (Goethe University)
 
-More information <a href="https://vhbonline.org/veranstaltungen/prodok/kurse-2019/1906fi03">here</a>.
+More information <a href="https://vhbonline.org/veranstaltungen/prodok/kurse-2021/2109fi03">here</a>.
