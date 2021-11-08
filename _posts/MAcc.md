@@ -1,0 +1,33 @@
+---
+title: 'Mental accounts and investor behavior'
+date: 2021-11-08
+permalink: /posts/2021-11-08-MAcc
+tags:
+  - Mental accounting
+  - Realization effect
+  - Reference point
+  - House money effect
+  - Risk taking
+---
+
+<i>This is an English version of a research summary to appear in <b>Schmalenbach IMPULSE</b> based on our research paper “Closing a mental account: the realization effect for gains and losses” by Christoph Merkle, Jan Müller-Dethard and Martin Weber, 2021, Experimental Economics, 24, 303–329.</i>
+
+Most investors remember exactly at which price they bought a stock and follow the further price development relative to this price. Such behavior can be well described by the concept of "mental accounting", investors open a mental account for each individual investment and register profits and losses on this account. Many online brokers support this type of accounting and prominently display the return since purchase, often in green and red for positive and negative price movements. Would the annual return be a more reasonable metric, the Sharpe Ratio, or aggregate portfolio-level results? Perhaps, but the desire to keep track of the entire history of an investment seems strong.
+
+How do mental accounts affect risk-taking behavior? The evidence on this seems contradictory. On the one hand, there is the example of the casino visitor who willingly puts winnings back on the line because he feels he is not playing with his own money but with casino money ("house money"). On the other hand, we know about investors that the desire to take profits and thus reduce risk increases when an investment is on the plus side. This behavior can be replicated in a simple laboratory experiment. Participants are given 2 euros and can bet any portion of it on the outcome of a dice roll. If the die shows the participant's lucky number, the stake is returned sevenfold. We are interested in the behavior of the winners after they have won such a prize. Do they become more conservative or more daring?
+It depends! The decisive factor is whether further rounds of the experiment will follow seamlessly, or whether an interruption will be made and the winnings are paid out. In the first case, the profit is a paper gain, as it is also typical in financial investments. The final word on the outcome has not yet been spoken. In this situation, winners tend to be more risk-seeking, as the paper winnings serve as a buffer for them. In this way, smaller losses can be endured without ending the game in the red. Similar, by the way, with losses. As long as there is still the possibility to recover prior losses, participants try to break even by increasing the risk. The interim payout of the earned amounts fundamentally changes this behavior. If another game is now offered, winners and losers are significantly more risk-averse.
+
+The theory of mental accounting helps to understand this change of mind. At the start of the experiment, a mental account is opened that moves into the gain or loss domain over the course of the dice rounds. This perception causes a risk adjustment with the goal of finishing in the gain domain. Interruption of the game with payoff of the earned amounts results in the closing of the mental account. Similar to an investor selling a stock, paper profits are realized and recorded as final. A round of dice that now follows is no longer part of the original game and is considered separately from it. A participant no longer has a cushion of paper wins to absorb potential losses. Consequently, participants who have already recorded a win are less likely to try their luck again. Likewise, a realized profit in an investment gives a good feeling that one does not want to gamble away again so quickly. Likewise, after realized losses, closing the mental account leads to lower risk appetite. Participants can no longer balance the account and are disinclined to repeat the unpleasant experience. In extreme cases, this leads investors to withdraw from the stock market altogether after stock market crashes. As statistics from the Deutsches Aktieninstitut show, investor numbers regularly collapse after drastic market declines (DAI 2021).
+
+The finding that risk behavior reverses as the mental account closes is described by the term realization effect (Imas, 2016). We want to know how universal this effect is and show in a series of further experiments that the skewness of the underlying distribution of a gamble, has a significant impact on the realization effect. In statistics, skewness describes the type and strength of asymmetry of a distribution.
+
+If, as described at the outset, participants can invest in a game of chance that has a small chance of producing a large win and otherwise a small loss (positive skewness), the described realization effect emerges: higher risk propensity after unrealized outcomes. This difference disappears when the gamble offers a large chance of a small win or a 50:50 chance of a medium-sized win (negative skewness or symmetric distribution). In these cases, participants do not take an increased risk after either a paper win or a paper loss, and the realization effect disappears.
+
+The reason for this is not that the expected value of gambling differs across experiments (it remains constant). Rather, the distributions without positive skewness do not have the attractive properties that induce risk-taking. For example, a small win is often not enough to provide a cushion against possible losses. Since participants tend to bet at most their paper profit, their options are severely limited with puny profits. In the loss area, the break-even point becomes a distant prospect if the amount of the potential profit only slightly exceeds the stake.
+
+In real financial markets, therefore, the broadly diversified fund investor is not likely to suddenly become exuberant after moderate paper gains. The distribution of returns simply does not allow for this. The situation is different for investors in so-called lottery stocks. These often inexpensive and highly volatile securities are characterized by positive skewness. They are popular with retail investors and encourage them to increase their risk as long as existing gain or loss positions are not realized.
+
+<i>References</i>
+Deutsches Aktieninstitut (DAI). 2021. Deutschland und die Aktie – Eine neue Liebesgeschichte? 
+www.dai.de/fileadmin/user_upload/210225_Aktionaerszahlen_2020.pdf (accessed 01.11.2021)
+Imas, Alex. 2016. "The Realization Effect: Risk-Taking after Realized versus Paper Losses." American Economic Review, 106 (8): 2086-2109.
