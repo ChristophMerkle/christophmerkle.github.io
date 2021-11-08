@@ -2,13 +2,13 @@
 title: "Current Topics in Behavioral Finance Research"
 collection: teaching
 type: "PhD course"
-permalink: /teaching/2019-behavioral-finance
+permalink: /teaching/2021-behavioral-finance
 venue: "VHB ProDok"
-date: 2019-06-25
+date: 2021-09-21
 location: "Frankfurt, Germany"
 ---
 
-Next offered: 2021 
+Next offered: 2023 
 
 The purpose of this course is to provide advanced insights into several areas of behavioral finance including individual investor behavior, household finance, limits to arbitrage, and (empirical) asset pricing. We will discuss cutting edge papers in these areas with a focus on methodological issues, such as conducting experiments, running surveys, and analyzing big data sets. The course will also include a practical part in which students replicate selected empirical findings related to cross-sectional return patterns.
 
