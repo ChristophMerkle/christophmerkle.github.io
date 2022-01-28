@@ -1,0 +1,20 @@
+---
+title: 'Mental Accounts and Investor Behavior'
+date: 2022-01-28
+permalink: /posts/2022-01-28-ValMom
+tags:
+  - Value Effect
+  - Momentum Effect
+  - Financial Professionals
+  - Risk perception
+  - Anomaly
+---
+
+<i>This is an English version of a research summary posted by <b>DFVA</b> (Association of Investment Professionals in Germany) based on our research paper “Value and Momentum from Investors' Perspective: Evidence from Professionals' Risk-Ratings” by Christoph Merkle and Christoph Sextroh, 2021, Journal of Empirical Finance, 62, 159-178.</i>
+
+Value and momentum remain among the most popular investment styles among professional investors and fund managers. Historically, these strategies have performed very well, even if there are temporary setbacks now and then. Given this performance, the question is whether value and momentum strategies are associated with increased risk. Financial theory traditionally assumes that higher returns do not come without higher risk. A whole series of theoretical models and empirical tests therefore attempt to establish a link between value, momentum, and risk.
+					
+We have approached this question from a different direction and invited finance professionals to participate in an online experiment via the CFA Institute and DVFA. We wanted to know how the risk assessments of these investors depend on various key figures of the companies to be evaluated. The design used is relatively simple: Based on seven key figures, two companies are compared with each other (see figure). These include the market-to-book ratio and the P/E ratio as measures of value, as well as the excess return relative to the market over the last twelve months as a measure of momentum. The participants are then asked to assess which of the two company shares they consider riskier. We do not want to know what the investors have learned in their studies or in their CFA courses, but how they assess real risk on financial markets. For some of the company pairs we also ask about expected return, as not everyone may have the historical returns of these investment styles in mind or believe that they will continue in the future.
+Our findings are clear. Professional financial market participants see both value and momentum stocks as less risky. Participants are skeptical when they observe a high market valuation, which is expressed in a higher P/E ratio or a higher market-to-book ratio. They may consider it uncertain whether this valuation is justified and associate higher risk with these stocks. High past returns, on the other hand, do not scare investors. Rather, it is companies with negative return trends that are seen as riskier. At the same time, we can confirm that participants interpret traditional risk measures such as volatility and beta as risky. In this respect, the results for value and momentum are embedded in a risk assessment that is otherwise in line with financial theory.
+Nevertheless, the results naturally pose a problem for financial theory. Are there relatively safe stocks with strong returns that can easily be identified based on simple ratios? Convinced value and momentum investors will claim just that, but this opinion cannot be mainstream, otherwise all investors would flock to this segment and drive prices up. It is therefore worthwhile to consider return expectations. In fact, participants expect a positive return of the last twelve months to continue at least over the next twelve months. Momentum therefore promises high returns with modest risk from the perspective of financial professionals. The results for Value are somewhat more mixed. Shares with a low P/E ratio are seen as likely to outperform in the future, but this does not apply to shares with a low market-to-book ratio.
+Overall, the impression of professional investors seems to be that value and momentum are not risk factors but anomalies. Consequently, the efficient market theory does not rank very highly among the participants when asked which financial market models they consider valid. Factor models and valuation based on multiples enjoy a much higher reputation.
