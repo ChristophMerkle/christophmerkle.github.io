@@ -41,7 +41,7 @@ _Some of the articles are behind paywalls or are not accessible from specific co
 ## Investment blogs
 
 Our findings are regularly discussed in investment blogs _(newest posts first)_:
-* DVFA (in German): [Value und Momentum aus der Sicht von Finanzprofis]<i>(https://www.dvfa.de/fileadmin/downloads/Verband/Studien_Umfragen/Value_und_Momentum_aus_der_Sicht_von_Finanzprofis.pdf)
+* DVFA (in German): [Value und Momentum aus der Sicht von Finanzprofis](https://www.dvfa.de/fileadmin/downloads/Verband/Studien_Umfragen/Value_und_Momentum_aus_der_Sicht_von_Finanzprofis.pdf)
 * Medium.com (in Turkish): [Robo-Danışmanlar ve Yakın Gelecek](https://medium.com/@oneriverblog/robo-dan%C4%B1%C5%9Fmanlar-ve-yak%C4%B1n-gelecek-74fd8bdbb36)
 * Klement on Investing: [Robo-advisors will grow - if they can survive long enough](https://klementoninvesting.substack.com/p/robo-advisors-will-grow-if-they-can)
 * Dirk Söhnholz (in German): [ESG-News, Robo-Infos und mehr](http://prof-soehnholz.com/esg-news-robo-infos-und-mehr/2/)
