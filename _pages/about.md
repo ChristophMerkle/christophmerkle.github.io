@@ -13,7 +13,7 @@ I am an Associate Professor of Finance at Aarhus University, School of Business 
 
 My research interests include Behavioral Finance, Household Finance, Experimental Economics, Decision Research, and Digital Finance. Among other topics, I analyze how individual investors convert their beliefs and preferences into actions in financial markets. I have extensively studied phenomena such as investor overconfidence and loss aversion. I further analyze how financial professionals (in particular analysts) process information and form expectations. In newer work, I explore imminent societal challenges such as digitalization and demographic change. For example, I examine financial technology companies (FinTechs) and how their customers accept them.
 
-My current teaching includes courses on Corporate Valuation and Behavioral Finance. I have taught various courses at ALBA Graduate Business School Athens, KLU, University of Mannheim, University of Münster, University of Cologne, and for the VHB. 
+My current teaching includes courses on Corporate Valuation and Behavioral Finance. I have taught various courses at ALFA Graduate Business School Athens, KLU, University of Mannheim, University of Münster, University of Cologne, and for the VHB. 
 <br>
 
 News
