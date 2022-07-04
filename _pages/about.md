@@ -18,7 +18,7 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li> The podcast "Rig på viden" talked to me about behavioral finance and in particular our paper <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a>, joint with Michael Ungeheuer (07.06.2022)</li>
+<ul> <li> The podcast <a href="https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP">"Rig på viden"</a> talks to me about behavioral finance and in particular our paper <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a>, joint with Michael Ungeheuer (07.06.2022)</li>
 <li> The Investors' Chronicle <a href="https://www.investorschronicle.co.uk/news/2022/05/11/snake-oil-funds/">reports</a> on our results that mutual fund investors have a hard time to distinguish skill from luck. Original paper: <a href="https://doi.org/10.1093/rof/rfw011">Fooled by randomness</a> (11.05.2022)</li>
 <!-- <li> The Berlingske newspaper has talked to me about ups and downs in the stock market: <a href="https://www.berlingske.dk/premium/nordea/derfor-bevaeger-aktiemarkedet-sig-op-og-ned/?dtid=disp_cm_9023299_6471838_326141543_26510399_158194094">Derfor bevæger aktiemarkedet sig op og ned</a> (28.01.2022)</li>
 <li> Our paper <b>Inconsistent Retirement Timing</b> has just been accepted by the <i>Journal of Human Resources</i>. The <a href="http://jhr.uwpress.org/content/early/2022/01/04/jhr.0920-11215R2.abstract">article</a> is open access (02.12.2021)</li>
