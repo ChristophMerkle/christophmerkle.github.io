@@ -18,7 +18,9 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li>  The Berlingske newspaper has talked to me about ups and downs in the stock market: <a href="https://www.berlingske.dk/premium/nordea/derfor-bevaeger-aktiemarkedet-sig-op-og-ned/?dtid=disp_cm_9023299_6471838_326141543_26510399_158194094">Derfor bevæger aktiemarkedet sig op og ned</a> (28.01.2022)</li>
+<ul> <li> The podcast "Rig på viden" talked to me about behavioral finance and in particular our paper <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a>, joint with Michael Ungeheuer (07.06.2022)</li>
+<li> The Investors' Chronicle <a href="https://www.investorschronicle.co.uk/news/2022/05/11/snake-oil-funds/">reports</a> on our results that mutual fund investors have a hard time to distinguish skill from luck. Original paper: <a href="https://doi.org/10.1093/rof/rfw011">Fooled by randomness</a> (11.05.2022)</li>
+<!-- <li> The Berlingske newspaper has talked to me about ups and downs in the stock market: <a href="https://www.berlingske.dk/premium/nordea/derfor-bevaeger-aktiemarkedet-sig-op-og-ned/?dtid=disp_cm_9023299_6471838_326141543_26510399_158194094">Derfor bevæger aktiemarkedet sig op og ned</a> (28.01.2022)</li>
 <li> Our paper <b>Inconsistent Retirement Timing</b> has just been accepted by the <i>Journal of Human Resources</i>. The <a href="http://jhr.uwpress.org/content/early/2022/01/04/jhr.0920-11215R2.abstract">article</a> is open access (02.12.2021)</li>
 <!-- <li> The Investors' Chronicle <a href="https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/">reports</a> on our new working paper (joint work with Michael Ungeheuer). We study investors' <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a> (15.07.2021)</li>
 <li> Our paper <b>Value and Momentum from Investors' Perspective: Evidence from Professionals' Risk-Ratings</b> has now been published in the <i>Journal of Empirical Finance</i>. The <a href="https://doi.org/10.1016/j.jempfin.2021.03.004">article</a> is open access (08.04.2021)</li>
