@@ -23,6 +23,7 @@ My work has been covered by several national and international news outlets:
 * The **Börsenzeitung** features a guest article by my co-author Alexander Kempf on our work on emotions: [Die rosarote Brille der Anleger](http://www.boersen-zeitung.de/index.php?li=1&artid=2010056038&artsubm=bz&subm=ausgaben&ersch_datum=2010-03-23)
 <a href="https://christophmerkle.github.io/files/Börsenzeitung - Die rosarote Brille der Anleger (23.03.2010).pdf">[pdf]</a>
 * The **Investors' Chronicle** runs a comment series covering several of my articles: 
+  * [Snake oil funds](https://www.investorschronicle.co.uk/news/2022/05/11/snake-oil-funds/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Snake oil funds (11.05.2022).pdf">[pdf]</a>
   * [Ideas Farm: Winning the losing game](https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Ideas Farm (15.07.2021).pdf">[pdf]</a>
   * [Revisiting the equity premium puzzle](https://www.investorschronicle.co.uk/comment/2019/12/04/revisiting-the-equity-premium-puzzle/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Revisiting the Equity Premium Puzzle (04.12.2019).pdf">[pdf]</a>
   * [Not seeing risk](https://www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Not seeing risk (25.07.2019).pdf">[pdf]</a>
@@ -31,7 +32,7 @@ My work has been covered by several national and international news outlets:
   * [The worst losses](https://www.investorschronicle.co.uk/chris-dillow/2017/09/21/the-worst-losses/?plckFindCommentKey=CommentKey:db6ec250-b1b3-4d9e-9e1b-6d401d87ac91) <a href="https://christophmerkle.github.io/files/Investors Chronicle - The worst losses (21.09.2017).pdf">[pdf]</a>
   * [Underestimating risk](https://www.investorschronicle.co.uk/2016/10/13/comment/chris-dillow/underestimating-risk-KBk4ySau67Ff6iEJIPSG7O/article.html) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Underestimating risk (13.10.2016).pdf">[pdf]</a>
   * [The knowledge problem](https://www.investorschronicle.co.uk/2015/07/09/comment/chris-dillow/the-knowledge-problem-GCaA6AzVD09HKNDI4rEctM/article.html) <a href="https://christophmerkle.github.io/files/Investors Chronicle - The knowledge problem (09.07.2015).pdf">[pdf]</a>
-  * [Fooled by randomness](https://www.investorschronicle.co.uk/2014/10/09/comment/chris-dillow/fooled-by-randomness-cpfXbbTAbhc9e6RJeKLgeI/article.html) 
+  * [Fooled by randomness](https://www.investorschronicle.co.uk/2014/10/09/comment/chris-dillow/fooled-by-randomness-cpfXbbTAbhc9e6RJeKLgeI/article.html) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Fooled by randomness (10.09.2014).pdf">[pdf]</a>
   * [Fear itself](https://www.investorschronicle.co.uk/2014/07/10/comment/chris-dillow/fear-itself-kJXsBgs7QCHcSSxISkOzEP/article.html) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Fear itself (10.07.2014).pdf">[pdf]</a>
   * [The psychology of overtrading](https://www.investorschronicle.co.uk/2013/10/17/comment/chris-dillow/the-psychology-of-overtrading-IhEPkSlQULejB5GWOiyMyO/article.html) <a href="https://christophmerkle.github.io/files/Investors Chronicle - The psychology of overtrading (18.10.2013).pdf">[pdf]</a>
   * [When investors know too much](https://www.investorschronicle.co.uk/2012/02/27/comment/chris-dillow/when-investors-know-too-much-iJcwSBUplbzNBsxYIRbFfO/article.html) <a href="https://christophmerkle.github.io/files/Investors Chronicle - When investors know too much (27.02.2012).pdf">[pdf]</a>
@@ -40,7 +41,8 @@ _Some of the articles are behind paywalls or are not accessible from specific co
 
 ## Investment blogs
 
-Our findings are regularly discussed in investment blogs _(newest posts first)_:
+Our findings are regularly discussed in investment blogs and podcasts _(newest posts first)_:
+* Podcast "Rig på viden" (available on spotify): [Episode 72 - Beliefs about beta with Christoph Merkle](https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP)
 * DVFA (in German): [Value und Momentum aus der Sicht von Finanzprofis](https://www.dvfa.de/fileadmin/downloads/Verband/Studien_Umfragen/Value_und_Momentum_aus_der_Sicht_von_Finanzprofis.pdf)
 * Medium.com (in Turkish): [Robo-Danışmanlar ve Yakın Gelecek](https://medium.com/@oneriverblog/robo-dan%C4%B1%C5%9Fmanlar-ve-yak%C4%B1n-gelecek-74fd8bdbb36)
 * Klement on Investing: [Robo-advisors will grow - if they can survive long enough](https://klementoninvesting.substack.com/p/robo-advisors-will-grow-if-they-can)
