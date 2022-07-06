@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor course (BSc HA)"
 permalink: /teaching/2020-behavioural-finance
 venue: "Aarhus University BSS"
-date: 2020, 2021
+date: 2021-09-01
 location: "Aarhus, Denmark"
 ---
 
