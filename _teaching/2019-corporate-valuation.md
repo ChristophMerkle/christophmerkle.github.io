@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course (MSc FIB)"
 permalink: /teaching/2019-corporate-valuation
 venue: "Aarhus University BSS"
-date: 2020-2022
+date: 2022
 location: "Aarhus, Denmark"
 ---
 
