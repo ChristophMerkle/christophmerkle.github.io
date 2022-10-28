@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Finance at Aarhus University, School of Business and Social Sciences and a Research Fellow of the Danish Finance Institute (DFI). Before I worked for three years as an Associate Professor at Kühne Logistics University in Hamburg. From 2012 to 2017 I was Assistant Professor of Finance and Banking at the University of Mannheim, where I also obtained my PhD. Earlier, I studied Economics at the University of Cologne. I was a visiting scholar at Duke University, Fuqua School of Business, and Aalto University, Helsinki.
+I am an Associate Professor of Finance at Aarhus University, School of Business and Social Sciences and a Research Fellow of the Danish Finance Institute (DFI). Before I worked for three years as an Associate Professor at Kühne Logistics University in Hamburg. From 2012 to 2017 I was Assistant Professor of Finance and Banking at the University of Mannheim, where I also obtained my PhD. Even earlier, I studied Economics at the University of Cologne. I was a visiting scholar at Duke University, Fuqua School of Business, and Aalto University, Helsinki.
 
 My research interests include Behavioral Finance, Household Finance, Experimental Economics, Decision Research, and Digital Finance. Among other topics, I analyze how individual investors convert their beliefs and preferences into actions in financial markets. I have extensively studied phenomena such as investor overconfidence and loss aversion. I further analyze how financial professionals (in particular analysts) process information and form expectations. In newer work, I explore imminent societal challenges such as digitalization and demographic change. For example, I examine financial technology companies (FinTechs) and how their customers accept them.
 
@@ -18,9 +18,12 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li> I have just started my term as an associate editor for the <a href="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-finance">Journal of Behavioral and Experimental Finance</a> (01.08.2022)</li>
+<ul> <li> I am currently on a paternity leave and will return in spring 2023 (17.10.2022).
+<li> Our paper <b>Algorithm Aversion in Delegated Investing</b> (joint with Maximilian Germann, ECB) has just been accepted for publication in a special issue by the <i>Journal of Business Economics</i> (13.10.22).  
+<!-- 
+<li> I have just started my term as an associate editor for the <a href="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-finance">Journal of Behavioral and Experimental Finance</a> (01.08.2022)</li>
 <li> The podcast <a href="https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP">"Rig på viden"</a> talked to me about behavioral finance and in particular our paper <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a>, joint with Michael Ungeheuer (07.06.2022)</li>
-<!-- <li> The Investors' Chronicle <a href="https://www.investorschronicle.co.uk/news/2022/05/11/snake-oil-funds/">reports</a> on our results that mutual fund investors have a hard time to distinguish skill from luck. Original paper: <a href="https://doi.org/10.1093/rof/rfw011">Fooled by randomness</a> (11.05.2022)</li>
+<li> The Investors' Chronicle <a href="https://www.investorschronicle.co.uk/news/2022/05/11/snake-oil-funds/">reports</a> on our results that mutual fund investors have a hard time to distinguish skill from luck. Original paper: <a href="https://doi.org/10.1093/rof/rfw011">Fooled by randomness</a> (11.05.2022)</li>
 <li> The Berlingske newspaper has talked to me about ups and downs in the stock market: <a href="https://www.berlingske.dk/premium/nordea/derfor-bevaeger-aktiemarkedet-sig-op-og-ned/?dtid=disp_cm_9023299_6471838_326141543_26510399_158194094">Derfor bevæger aktiemarkedet sig op og ned</a> (28.01.2022)</li>
 <li> Our paper <b>Inconsistent Retirement Timing</b> has just been accepted by the <i>Journal of Human Resources</i>. The <a href="http://jhr.uwpress.org/content/early/2022/01/04/jhr.0920-11215R2.abstract">article</a> is open access (02.12.2021)</li>
 <!-- <li> The Investors' Chronicle <a href="https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/">reports</a> on our new working paper (joint work with Michael Ungeheuer). We study investors' <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a> (15.07.2021)</li>
