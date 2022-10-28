@@ -18,8 +18,8 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> I am currently on a paternity leave and will return in spring 2023 (17.10.2022).
-<li> Our paper <b>Algorithm Aversion in Delegated Investing</b> (joint with Maximilian Germann, ECB) has just been accepted for publication in a special issue by the <i>Journal of Business Economics</i> (13.10.22).  
+<ul> <li> I am currently on a paternity leave and will return in spring 2023 (17.10.2022).</li>
+<li> Our paper <b>Algorithm Aversion in Delegated Investing</b> (joint with Maximilian Germann, ECB) has just been accepted for publication in a special issue by the <i>Journal of Business Economics</i> (13.10.22).</li>  
 <!-- 
 <li> I have just started my term as an associate editor for the <a href="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-finance">Journal of Behavioral and Experimental Finance</a> (01.08.2022)</li>
 <li> The podcast <a href="https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP">"Rig på viden"</a> talked to me about behavioral finance and in particular our paper <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a>, joint with Michael Ungeheuer (07.06.2022)</li>
