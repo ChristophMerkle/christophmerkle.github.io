@@ -18,7 +18,7 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li> I am currently on a paternity leave and will return in spring 2023 (17.10.2022).
+<ul> I am currently on a paternity leave and will return in spring 2023 (17.10.2022).
 <li> Our paper <b>Algorithm Aversion in Delegated Investing</b> (joint with Maximilian Germann, ECB) has just been accepted for publication in a special issue by the <i>Journal of Business Economics</i> (13.10.22).  
 <!-- 
 <li> I have just started my term as an associate editor for the <a href="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-finance">Journal of Behavioral and Experimental Finance</a> (01.08.2022)</li>
