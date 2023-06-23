@@ -10,3 +10,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Crowd-sourced Publications
+======
+  <ul>{% for post in site.crowd reversed %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
