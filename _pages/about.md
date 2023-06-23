@@ -18,9 +18,11 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li> I am currently on a paternity leave and will return in spring 2023 (17.10.2022) </li>
-<li> Our paper <b>Algorithm Aversion in Delegated Investing</b> (joint with Maximilian Germann, ECB) has just been accepted for publication in a special issue by the <i>Journal of Business Economics</i> (13.10.22) </li>  
+<ul> <li> I was part of a large crowd-sourced research effort that was just published in <i>PNAS</i>. The <a href="https://doi.org/10.1073/pnas.2215572120">article</a> is titled <b>Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</b> </li> 
+<li> I have now returned from my paternity leave and will resume my activity at AU (15.03.2023) </li> 
 <!-- 
+<li> I am currently on a paternity leave and will return in spring 2023 (17.10.2022) </li>
+<li> Our paper <b>Algorithm Aversion in Delegated Investing</b> (joint with Maximilian Germann, ECB) has just been accepted for publication in a special issue by the <i>Journal of Business Economics</i> (13.10.22) </li>  
 <li> I have just started my term as an associate editor for the <a href="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-finance">Journal of Behavioral and Experimental Finance</a> (01.08.2022)</li>
 <li> The podcast <a href="https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP">"Rig på viden"</a> talked to me about behavioral finance and in particular our paper <a href="https://ssrn.com/abstract=3794224">Beliefs about Beta</a>, joint with Michael Ungeheuer (07.06.2022)</li>
 <li> The Investors' Chronicle <a href="https://www.investorschronicle.co.uk/news/2022/05/11/snake-oil-funds/">reports</a> on our results that mutual fund investors have a hard time to distinguish skill from luck. Original paper: <a href="https://doi.org/10.1093/rof/rfw011">Fooled by randomness</a> (11.05.2022)</li>
