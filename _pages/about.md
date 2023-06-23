@@ -18,7 +18,7 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li> I was part of a large crowd-sourced research effort that was just published in <i>PNAS</i>. The <a href="https://doi.org/10.1073/pnas.2215572120">article</a> is titled <b>Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</b> </li> 
+<ul> <li> I was part of a large crowd-sourced research effort that was just published in <i>PNAS</i>. The <a href="https://doi.org/10.1073/pnas.2215572120">article</a> is titled <b>Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs (30.05.2023)</b> </li> 
 <li> I have now returned from my paternity leave and will resume my activity at AU (15.03.2023) </li> 
 <!-- 
 <li> I am currently on a paternity leave and will return in spring 2023 (17.10.2022) </li>
