@@ -13,6 +13,9 @@ author_profile: true
 
 Crowd-sourced Publications
 ======
-  <ul>{% for post in site.crowd reversed %}
+
+{% include base_path %}
+
+  <ul>{% for post in site.crowds reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
