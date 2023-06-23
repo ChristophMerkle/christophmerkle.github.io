@@ -55,6 +55,12 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Crowd-sourced Publications
+======
+  <ul>{% for post in site.crowd reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
