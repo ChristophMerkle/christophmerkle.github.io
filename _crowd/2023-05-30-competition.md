@@ -4,7 +4,7 @@ collection: crowd
 permalink: /crowd/2023-05-30-competition
 excerpt: ''
 date: 2023-05-30
-venue: 'PNAS (Proceedings of the National Academy of the Sciences'
+venue: 'PNAS (Proceedings of the National Academy of the Sciences)'
 paperurl: ''
 citation: 'Huber, Christoph, Anna Dreber, Felix Holzmeister et al. (2023). &quot;Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs.&quot; <i>PNAS</i>, Vol. 120(23), e2215572120.'
 ---
