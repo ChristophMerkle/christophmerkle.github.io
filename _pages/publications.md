@@ -16,6 +16,6 @@ Crowd-sourced Publications
 
 {% include base_path %}
 
-  <ul>{% for post in site.crowds reversed %}
+  <ul>{% for post in site.drafts reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
