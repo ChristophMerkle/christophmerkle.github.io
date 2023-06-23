@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.crowd reversed %}
+{% for post in site.crowds reversed %}
   {% include archive-single.html %}
 {% endfor %}
