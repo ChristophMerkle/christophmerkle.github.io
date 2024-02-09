@@ -47,6 +47,7 @@ Research Interests
   * Investment Behavior
   * Borrowing Behavior
   * Retirement Savings and Timing
+* Sustainable Finance
 * Digital Finance
 * Experimental Finance
 
