@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<p style="text-decoration:underline;"><a href="https://christophmerkle.github.io/files/CV2022.pdf">Download full CV</a></p>
+<p style="text-decoration:underline;"><a href="https://christophmerkle.github.io/files/CV2024.pdf">Download full CV</a></p>
 
 Work experience
 ======
