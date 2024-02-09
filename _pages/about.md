@@ -18,9 +18,11 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 
 News
 =====
-<ul> <li> I was part of a large crowd-sourced research effort that was just published in <i>PNAS</i>. The <a href="https://doi.org/10.1073/pnas.2215572120">article</a> is titled <b>Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</b> (30.05.2023) </li> 
-<li> I have now returned from my paternity leave and will resume my activity at AU (15.03.2023) </li> 
+<ul> <li> After a long and bumpy ride our paper <b>Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness</b> was finally accepted by <i>JMCB</i>. The DIW has published it in their  <a href="https://ssrn.com/abstract=3372805">working paper series</a> to mark the occasion (14.12.2023) </li> 
+<li> In a large crowd-sourced project, I (and many others) contributed to a study on <b>Reproducibility in Management Science</b> which has just been accepted by the <a href="https://doi.org/10.1287/mnsc.2023.03556">journal</a> (29.11.2023) </li> 
 <!-- 
+<li> I was part of a large crowd-sourced research effort that was just published in <i>PNAS</i>. The <a href="https://doi.org/10.1073/pnas.2215572120">article</a> is titled <b>Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</b> (30.05.2023) </li> 
+<li> I have now returned from my paternity leave and will resume my activity at AU (15.03.2023) </li>   
 <li> I am currently on a paternity leave and will return in spring 2023 (17.10.2022) </li>
 <li> Our paper <b>Algorithm Aversion in Delegated Investing</b> (joint with Maximilian Germann, ECB) has just been accepted for publication in a special issue by the <i>Journal of Business Economics</i> (13.10.22) </li>  
 <li> I have just started my term as an associate editor for the <a href="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-finance">Journal of Behavioral and Experimental Finance</a> (01.08.2022)</li>
