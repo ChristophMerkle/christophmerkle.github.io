@@ -19,7 +19,7 @@ My current teaching includes courses on Corporate Valuation and Behavioral Finan
 News
 =====
 <ul> <li> In a very strong field, I was able to snatch the victory in our section Minigolf tournament (27.06.2024)</li>
-<li> The journal version of the paper <b>Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness</b> is now available on the <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.13157">homepage</a> of <i>JMCB</i>.  (24.05.2024) </li> 
+<li> The journal version of the paper <b>Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness</b> is now available on the <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.13157">homepage</a> of <i>JMCB</i>  (24.05.2024) </li> 
 <li> Our paper <b>Inconsistent Retirement Timing</b> has now finally appeared in the <i>Journal of Human Resources</i>. The <a href="https://jhr.uwpress.org/content/59/3/929.abstract">article</a> is open access (01.05.2024)</li>
 <!-- 
 <li> After a long and bumpy ride our paper <b>Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness</b> was finally accepted by <i>JMCB</i>. The DIW has published it in their  <a href="https://ssrn.com/abstract=3372805">working paper series</a> to mark the occasion (14.12.2023) </li> 
