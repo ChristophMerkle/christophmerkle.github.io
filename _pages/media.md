@@ -44,7 +44,7 @@ _Some of the articles are behind paywalls or are not accessible from specific co
 
 Our findings are regularly discussed in investment blogs and podcasts _(newest posts first)_:
 * LTG Private Banking: [Investors: Why managing emotion is crucial for maximising outcomes](https://www.lgt.com/global-en/market-assessments/insights/financial-markets/investors-why-managing-emotion-is-crucial-for-maximising-outcomes-198462)
-* Podcast "Investering På Hjernen" (available on spotify): [EP 26: Forventningers påvirkning af risikovurderingen med Christoph Merkle]([https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP](https://analyser.hulemandens.dk/forventningers-paavirkning-af-risikovurderingen-med-christoph-merkle/)
+* Podcast "Investering På Hjernen" (available on spotify): [EP 26: Forventningers påvirkning af risikovurderingen med Christoph Merkle](https://analyser.hulemandens.dk/forventningers-paavirkning-af-risikovurderingen-med-christoph-merkle/)
 * Podcast "Rig på viden" (available on spotify): [Episode 72 - Beliefs about beta with Christoph Merkle](https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP)
 * DVFA (in German): [Value und Momentum aus der Sicht von Finanzprofis](https://www.dvfa.de/fileadmin/downloads/Verband/Studien_Umfragen/Value_und_Momentum_aus_der_Sicht_von_Finanzprofis.pdf)
 * Medium.com (in Turkish): [Robo-Danışmanlar ve Yakın Gelecek](https://medium.com/@oneriverblog/robo-dan%C4%B1%C5%9Fmanlar-ve-yak%C4%B1n-gelecek-74fd8bdbb36)
