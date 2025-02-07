@@ -9,19 +9,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Finance at Aarhus University's School of Business and Social Sciences, as well as a Research Fellow of the Danish Finance Institute (DFI). Prior to my current position, I held the role of Associate Professor at Kühne Logistics University in Hamburg for three years. My academic journey began at the University of Mannheim, where I completed my PhD and served as an Assistant Professor of Finance and Banking from 2012 to 2017. Even earlier, I studied Economics at the University of Cologne. I was a visiting scholar at Duke University, Fuqua School of Business, and Aalto University, Helsinki.
+I am an Associate Professor of Finance at Aarhus University's School of Business and Social Sciences and a Research Fellow at the Danish Finance Institute (DFI). Before joining Aarhus, I was an Associate Professor at Kühne Logistics University in Hamburg. I completed my PhD at the University of Mannheim, where I also served as an Assistant Professor of Finance and Banking from 2012 to 2017. I was a visiting scholar at Duke University, Fuqua School of Business, and Aalto University, Helsinki.
 
-My research interests include Behavioral Finance, Household Finance, Experimental Economics, Sustainable Finance, and Digital Finance. Among other topics, I analyze how individual investors convert their beliefs and preferences into actions in financial markets. I have extensively studied phenomena such as investor overconfidence and loss aversion. I further analyze how financial professionals (in particular analysts) process information and form expectations. In newer work, I explore imminent societal challenges such as digitalization and demographic change. For example, I examine financial technology companies (FinTechs) and how they interact with their customers.
+My research spans Behavioral Finance, Household Finance, Experimental Economics, Sustainable Finance, and Digital Finance. I focus on how individual investors and financial professionals translate beliefs and preferences into investment behavior—investigating topics such as overconfidence, loss aversion, and analysts’ information processing. Recently, I have turned to imminent societal challenges such as digitalization and demographic change. This includes examining financial technology companies (FinTechs) and their interactions with customers.
 
-My current teaching includes courses on Corporate Valuation and Behavioral Finance. I have taught various courses at ALBA Graduate Business School Athens, KLU, University of Mannheim, University of Münster, University of Cologne, and for the VHB. I am an associate editor for the Journal of Behavioral and Experimental Finance.
+I currently teach courses on Corporate Valuation and Behavioral Finance. In addition to Aarhus, I have taught at ALBA Graduate Business School Athens, KLU, the University of Mannheim, the University of Münster, the University of Cologne, and for the VHB. I also serve as an Associate Editor of the Journal of Behavioral and Experimental Finance.
 <br>
 
 News
 =====
+<ul> <li> We have a new working paper out on <b>Nudging Investors towards Sustainability: A Field Experiment with a Robo-Advisor</b> that is available <a href="https://dx.doi.org/10.2139/ssrn.5051082">here</a> (10.12.2024) </li> 
+<!-- 
 <ul> <li> In a very strong field, I was able to snatch the victory in our AU finance section Minigolf tournament (27.06.2024)</li>
 <li> The journal version of the paper <b>Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness</b> is now available on the <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.13157">homepage</a> of <i>JMCB</i>  (24.05.2024) </li> 
 <li> Our paper <b>Inconsistent Retirement Timing</b> has now finally appeared in the <i>Journal of Human Resources</i>. The <a href="https://jhr.uwpress.org/content/59/3/929.abstract">article</a> is open access (01.05.2024)</li>
-<!-- 
 <li> After a long and bumpy ride our paper <b>Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness</b> was finally accepted by <i>JMCB</i>. The DIW has published it in their  <a href="https://ssrn.com/abstract=3372805">working paper series</a> to mark the occasion (14.12.2023) </li> 
 <li> In a large crowd-sourced project, I (and many others) contributed to a study on <b>Reproducibility in Management Science</b> which has just been accepted by the <a href="https://doi.org/10.1287/mnsc.2023.03556">journal</a> (29.11.2023) </li>   
 <li> I was part of a large crowd-sourced research effort that was just published in <i>PNAS</i>. The <a href="https://doi.org/10.1073/pnas.2215572120">article</a> is titled <b>Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</b> (30.05.2023) </li> 
