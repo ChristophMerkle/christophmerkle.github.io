@@ -1,7 +1,7 @@
 ---
 title: "Algorithm aversion in delegated investing"
 collection: publications
-permalink: /publication/2022-11-17-algorithm-aversion
+permalink: /publication/2023-11-01-algorithm-aversion
 excerpt: ''
 date: 2023-11-01
 venue: 'Journal of Business Economics'
