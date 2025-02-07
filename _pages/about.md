@@ -19,6 +19,7 @@ I currently teach courses on Corporate Valuation and Behavioral Finance. In addi
 News
 =====
 <ul> <li> We have a new working paper out on <b>Nudging Investors towards Sustainability: A Field Experiment with a Robo-Advisor</b> that is available <a href="https://dx.doi.org/10.2139/ssrn.5051082">here</a> (10.12.2024) </li> 
+<li> Even before appearing online, the above paper won the INFINZ Prize for the Best Paper in Sustainable Investing (29.11.2024) </li> 
 <!-- 
 <ul> <li> In a very strong field, I was able to snatch the victory in our AU finance section Minigolf tournament (27.06.2024)</li>
 <li> The journal version of the paper <b>Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness</b> is now available on the <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.13157">homepage</a> of <i>JMCB</i>  (24.05.2024) </li> 
