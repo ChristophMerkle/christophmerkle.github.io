@@ -1,5 +1,5 @@
 ---
-title: "Beliefs about beta: ppside participation and downside protection"
+title: "Beliefs about beta: upside participation and downside protection"
 collection: publications
 permalink: /publication/2025-07-11-beta-beliefs
 excerpt: ''
