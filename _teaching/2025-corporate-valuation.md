@@ -1,7 +1,7 @@
 ---
 title: "Corporate Valuation"
 collection: teaching
-type: "Bachelor course (MSc FIB)"
+type: "Bachelor course (BSc HA)"
 permalink: /teaching/2025-corporate-valuation
 venue: "Aarhus University BSS"
 date: 2025-09-02
