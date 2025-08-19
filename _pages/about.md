@@ -18,9 +18,11 @@ I currently teach courses on Corporate Valuation and Behavioral Finance. In addi
 
 News
 =====
+<ul> <li> Our paper on <b>Beliefs about beta: upside participation and downside protection</b> got accepted by the Review of Finance and can be found online <a href="https://doi.org/10.1093/rof/rfaf028">here</a> (11.07.2025)</li> 
+<li> The Oxford Business Law Blog reports <a href="https://blogs.law.ox.ac.uk/oblb/blog-post/2025/03/nudging-investors-towards-sustainability-insights-field-experiment">here</a> on our paper about <b>Nudging Investors towards Sustainability</b> (12.03.2025) </li> 
+<!-- 
 <ul> <li> We have a new working paper out on <b>Nudging Investors towards Sustainability: A Field Experiment with a Robo-Advisor</b> that is available <a href="https://dx.doi.org/10.2139/ssrn.5051082">here</a> (10.12.2024) </li> 
 <li> Even before appearing online, the above paper won the INFINZ Prize for the Best Paper in Sustainable Investing (29.11.2024) </li> 
-<!-- 
 <ul> <li> In a very strong field, I was able to snatch the victory in our AU finance section Minigolf tournament (27.06.2024)</li>
 <li> The journal version of the paper <b>Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness</b> is now available on the <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.13157">homepage</a> of <i>JMCB</i>  (24.05.2024) </li> 
 <li> Our paper <b>Inconsistent Retirement Timing</b> has now finally appeared in the <i>Journal of Human Resources</i>. The <a href="https://jhr.uwpress.org/content/59/3/929.abstract">article</a> is open access (01.05.2024)</li>
