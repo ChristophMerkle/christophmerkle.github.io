@@ -26,6 +26,7 @@ My work has been covered by several national and international news outlets:
 * The **Investors' Chronicle** runs a comment series covering several of my articles: 
   * [Snake oil funds](https://www.investorschronicle.co.uk/news/2022/05/11/snake-oil-funds/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Snake oil funds (11.05.2022).pdf">[pdf]</a>
   * [Ideas Farm: Winning the losing game](https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Ideas Farm (15.07.2021).pdf">[pdf]</a>
+  * [Don't ignore luck](https://www.investorschronicle.co.uk/content/0656e229-e0fb-53f6-b94a-ce31266115c1)
   * [Revisiting the equity premium puzzle](https://www.investorschronicle.co.uk/comment/2019/12/04/revisiting-the-equity-premium-puzzle/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Revisiting the Equity Premium Puzzle (04.12.2019).pdf">[pdf]</a>
   * [Not seeing risk](https://www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Not seeing risk (25.07.2019).pdf">[pdf]</a>
   * [What we have to fear](https://www.investorschronicle.co.uk/comment/2018/12/13/what-we-have-to-fear/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - What we have to fear (13.12.2018).pdf">[pdf]</a>
@@ -43,11 +44,14 @@ _Some of the articles are behind paywalls or are not accessible from specific co
 ## Investment blogs and podcasts
 
 Our findings are regularly discussed in investment blogs and podcasts _(newest posts first)_:
+* Hull Tactical Asset Allocation: [What we say and what we do](https://hulltactical.com/2025/07/10/what-we-say-and-what-we-do)
 * Oxford Business Law Blog: [Nudging Investors towards Sustainability: Insights from a Field Experiment](https://blogs.law.ox.ac.uk/oblb/blog-post/2025/03/nudging-investors-towards-sustainability-insights-field-experiment)
+* Hull Tactical Asset Allocation: [Types of overconfidence](https://www.hulltactical.com/2024/09/19/types-of-overconfidence)
 * LTG Private Banking: [Investors: Why managing emotion is crucial for maximising outcomes](https://www.lgt.com/global-en/market-assessments/insights/financial-markets/investors-why-managing-emotion-is-crucial-for-maximising-outcomes-198462)
 * Podcast "Investering På Hjernen" (available on spotify): [EP 26: Forventningers påvirkning af risikovurderingen med Christoph Merkle](https://analyser.hulemandens.dk/forventningers-paavirkning-af-risikovurderingen-med-christoph-merkle/)
 * Podcast "Rig på viden" (available on spotify): [Episode 72 - Beliefs about beta with Christoph Merkle](https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP)
 * DVFA (in German): [Value und Momentum aus der Sicht von Finanzprofis](https://www.dvfa.de/fileadmin/downloads/Verband/Studien_Umfragen/Value_und_Momentum_aus_der_Sicht_von_Finanzprofis.pdf)
+* Stumbling and Mumbling: [Why so little anger?](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2020/06/why-so-little-anger.html)
 * Medium.com (in Turkish): [Robo-Danışmanlar ve Yakın Gelecek](https://medium.com/@oneriverblog/robo-dan%C4%B1%C5%9Fmanlar-ve-yak%C4%B1n-gelecek-74fd8bdbb36)
 * Klement on Investing: [Robo-advisors will grow - if they can survive long enough](https://klementoninvesting.substack.com/p/robo-advisors-will-grow-if-they-can)
 * Dirk Söhnholz (in German): [ESG-News, Robo-Infos und mehr](http://prof-soehnholz.com/esg-news-robo-infos-und-mehr/2/)
