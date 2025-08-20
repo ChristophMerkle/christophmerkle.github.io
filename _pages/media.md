@@ -43,6 +43,7 @@ _Some of the articles are behind paywalls or are not accessible from specific co
 ## Investment blogs and podcasts
 
 Our findings are regularly discussed in investment blogs and podcasts _(newest posts first)_:
+* Oxford Business Law Blog: [Nudging Investors towards Sustainability: Insights from a Field Experiment](https://blogs.law.ox.ac.uk/oblb/blog-post/2025/03/nudging-investors-towards-sustainability-insights-field-experiment)
 * LTG Private Banking: [Investors: Why managing emotion is crucial for maximising outcomes](https://www.lgt.com/global-en/market-assessments/insights/financial-markets/investors-why-managing-emotion-is-crucial-for-maximising-outcomes-198462)
 * Podcast "Investering På Hjernen" (available on spotify): [EP 26: Forventningers påvirkning af risikovurderingen med Christoph Merkle](https://analyser.hulemandens.dk/forventningers-paavirkning-af-risikovurderingen-med-christoph-merkle/)
 * Podcast "Rig på viden" (available on spotify): [Episode 72 - Beliefs about beta with Christoph Merkle](https://open.spotify.com/episode/4krwmNbmyp9Rk0xdWucXlP)
