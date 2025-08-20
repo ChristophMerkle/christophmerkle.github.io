@@ -23,10 +23,10 @@ My work has been covered by several national and international news outlets:
 * The **Mannheimer Morgen** talked to me during my PhD program: [Der Luxus der Gedankenfreiheit](http://www.morgenweb.de/mannheimer-morgen_artikel,-hochschule-der-luxus-der-gedankenfreiheit-_arid,83768.html) <a href="https://christophmerkle.github.io/files/Mannheimer Morgen - Der Luxus der Gedankenfreiheit (09.02.2011).pdf">[pdf]</a>
 * The **Börsenzeitung** features a guest article by my co-author Alexander Kempf on our work on emotions: [Die rosarote Brille der Anleger](http://www.boersen-zeitung.de/index.php?li=1&artid=2010056038&artsubm=bz&subm=ausgaben&ersch_datum=2010-03-23)
 <a href="https://christophmerkle.github.io/files/Börsenzeitung - Die rosarote Brille der Anleger (23.03.2010).pdf">[pdf]</a>
-* The **Investors' Chronicle** runs a comment series covering several of my articles: 
+* The **Investors' Chronicle** (Financial Times Group) runs a comment series covering several of my articles: 
   * [Snake oil funds](https://www.investorschronicle.co.uk/news/2022/05/11/snake-oil-funds/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Snake oil funds (11.05.2022).pdf">[pdf]</a>
   * [Ideas Farm: Winning the losing game](https://www.investorschronicle.co.uk/ideas/2021/07/15/ideas-farm-winning-the-losing-game/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Ideas Farm (15.07.2021).pdf">[pdf]</a>
-  * [Don't ignore luck](https://www.investorschronicle.co.uk/content/0656e229-e0fb-53f6-b94a-ce31266115c1)
+  * [Don't ignore luck](https://www.investorschronicle.co.uk/content/0656e229-e0fb-53f6-b94a-ce31266115c1)<a href="https://christophmerkle.github.io/files/Investors Chronicle - Don't ignore luck (19.05.2021).pdf">[pdf]</a>
   * [Revisiting the equity premium puzzle](https://www.investorschronicle.co.uk/comment/2019/12/04/revisiting-the-equity-premium-puzzle/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Revisiting the Equity Premium Puzzle (04.12.2019).pdf">[pdf]</a>
   * [Not seeing risk](https://www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - Not seeing risk (25.07.2019).pdf">[pdf]</a>
   * [What we have to fear](https://www.investorschronicle.co.uk/comment/2018/12/13/what-we-have-to-fear/) <a href="https://christophmerkle.github.io/files/Investors Chronicle - What we have to fear (13.12.2018).pdf">[pdf]</a>
