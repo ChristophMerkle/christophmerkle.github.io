@@ -1,5 +1,5 @@
 ---
-title: "Corporate Valuation"
+title: "Corporate Valuation (BSc)"
 collection: teaching
 type: "Bachelor course (BSc HA)"
 permalink: /teaching/2025-corporate-valuation
