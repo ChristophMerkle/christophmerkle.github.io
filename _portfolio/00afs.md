@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "<img src='/images/AFS.jpg'><br/>Alpine Finance Summit in Grenoble 2025"
+excerpt: "<img src='/images/AFS.jpg'><br/>Alpine Finance Summit 2025 in Grenoble"
 collection: portfolio
 ---
 
