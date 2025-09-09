@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "<img src='/images/Faculty.jpg'><br/>KLU faculty as of 2018"
+excerpt: "<img src='/images/Faculty.jpg'><br/>KLU Faculty as of 2018"
 collection: portfolio
 ---
 
